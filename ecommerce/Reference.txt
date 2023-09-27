@@ -1,0 +1,4 @@
+//Bouli Ali jwt spring security
+Reference videos : https://www.youtube.com/watch?v=BVdQ3iuovg0&pp=ygUbYm91YWxpIGFsaSBzcHJpbmcgc2VjdXJpdHkg
+//Amigos code 
+Reference videos: https://youtu.be/KxqlJblhzfI?si=1WrPgmfDN72eKHz7
